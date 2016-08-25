@@ -1,0 +1,1 @@
+hi all,this is the first and the last file in git.
